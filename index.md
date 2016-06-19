@@ -8,4 +8,4 @@ Software.
 
 
 
-- [intro](intro.md) - an introduction to myself.
+- [intro](intro) - an introduction to myself.
